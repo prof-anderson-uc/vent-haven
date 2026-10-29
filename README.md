@@ -1,5 +1,5 @@
 
-# Vent Haven Museum — Web Design I Group Coding Exercise
+# Vent Haven Museum
 
 In this coding exercise, you'll build a three-page website for the Vent Haven Museum, a museum dedicated to the history and art of ventriloquism in Fort Mitchell, Kentucky.
 
